@@ -1,0 +1,48 @@
+h1 {
+    border: 10px solid blue;
+    color: #DEC51F;
+    background: #4E2C73
+}
+
+a {
+    color: #DEC51F
+}
+
+b {
+    color: #DEC51F
+}
+
+dl {
+    text-align: center;
+    color: #DEC51F;
+    background: #4E2C73
+}
+dd {
+    text-align: left;
+}
+
+body {
+    background: #373276;
+    color: #DEC51F;
+    font-family: sans-serif;
+    font-weight: 500
+}
+
+h1 {
+    text-align: center
+}
+
+p {
+    text-align: left;
+    font-family: "Helvetica Black", serif;
+
+}
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
